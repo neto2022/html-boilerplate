@@ -1,1 +1,1 @@
-# html-boilerplate
+Basics of The Odin Project
